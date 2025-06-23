@@ -1,0 +1,5 @@
+12th of September. Online meeting. 
+
+What we decided: 
+Language: Java
+OCR: Tesseract

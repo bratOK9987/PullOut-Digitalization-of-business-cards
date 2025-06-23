@@ -1,0 +1,32 @@
+Meeting was 10/10/2023 at 10 AM
+
+Attended:
+everyone 
+(4/4)
+
+Topics:
+•What've we done from the past meeting.
+•Possible implementations in the future.
+•User's output.
+•Next our steps?
+
+Decisions:
+•Use spaCy
+
+What we agreed on?
+•Everyone's homework
+
+Homework:
+•Prepare (non-)functional requirements  -  Severyn (Today)
+•Make LaTeX report draft 1 -  Renaldas (Until Wednesday 10PM)
+•Working on code - Joris 
+•Making UML and ER diagrams - Oleksii 
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+•https://track.toggl.com/timer
+•https://docs.google.com/document/d/15CoD0h3OXyaZdbXqtpknYM8uIJ2c3-Fqab2k_rp4rJI/edit
+
+Next meeting:
+•10/11/2023 12AM (Wednesday)
+•3nd floor

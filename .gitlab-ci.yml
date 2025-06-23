@@ -1,0 +1,7 @@
+run_tests:
+  image: python
+  before_script:
+    - apt-get update && apt-get install -y python3-pip
+    - pip3 install
+  script:
+    - python3 tests/test_storage.py 

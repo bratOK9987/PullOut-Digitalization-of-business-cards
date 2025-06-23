@@ -1,0 +1,23 @@
+Meeting was 11/15/2023 at 7PM
+
+Attended:
+Everyone 
+(4/4)
+
+Topics: 
+•Installing pipx
+•Tommorrow's project's presentation
+•CardDav servers
+
+What we agreed on?
+•To go to SE practices one by one.
+
+Homework: 
+•Compress images - Severyn
+•Make a presentation of explaining how to run our project - Oleksii
+
+Material meetings:
+•none
+
+Next meeting:
+•11/16/2023 12 AM (Thursday)

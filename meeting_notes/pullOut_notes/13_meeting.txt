@@ -1,0 +1,40 @@
+Meeting was 10/19/2023 at 12 PM
+
+Attended:
+Everyone 
+(4/4)
+
+Topics:
+•Overviewing presentation presented by Oleksii on practice session 
+•Questions we got
+•Recommendations we got
+•Weekly reports
+•Next our steps?
+
+Decisions:
+•List of reviewers and presenters for next presentations
+
+What we agreed on?
+•To use hashes on duplicating pictures
+•To use [configuration] for grouping all data of entities as user wants to
+•Who's presenter or reviewer for next presentations ("welcome" text channel)
+•To use (and make) issues for every bullet point in weekly reports
+
+Homework:
+•Research more about CardDav - everyone
+•Figuring out how to send image to DB - everyone 
+•Learn Bash Script -  Severyn 
+•Research more about large language models - Renaldas 
+•Plan meeting with supervisor - Oleksii 
+•Finnish settuping DB - Oleksii 
+•Cropping image settuping - Joris 
+
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+•https://www.overleaf.com/project/652797e89497fcdf684f9f14
+
+Next meeting:
+•10/21/2023 7PM (Saturday)
+•Online (Discord)
+

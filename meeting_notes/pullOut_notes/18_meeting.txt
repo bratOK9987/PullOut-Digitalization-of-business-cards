@@ -1,0 +1,26 @@
+Meeting was 11/08/2023 at 10:00AM
+
+Attended:
+Everyone 
+(4/4)
+
+Topics: 
+•What've we done from the past meeting.
+•ID for image processing to make every data unique.
+•Overall code review.
+•Project improvings.
+•Overviewing presentation made by Renaldas.
+
+What we agreed on?
+•To write number of issue in commit message.
+
+Homework: 
+•Figuring out how to send image to DB - Joris and Renaldas
+•Make python script - Severyn (until Thursday)
+•Finish tests for DB - Oleksii
+
+Material meetings:
+•none
+
+Next meeting:
+•11/09/2023 12 AM (Thursday)

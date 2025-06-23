@@ -1,0 +1,30 @@
+Meeting was 10/18/2023 at 12 PM
+
+Attended:
+Oleksii, Renaldas & Severyn 
+(3/4)
+
+Topics:
+•Overviewing presentation made by Oleksii
+•Next our steps?
+
+Decisions:
+•Upgrade presentation
+
+What we agreed on?
+•Upgrades of presentation
+
+Homework:
+•Upgrade presentation also add more information from report draft and 1st presentation and send it - Oleksii  (until 11PM)
+•Learn Bash Script - Severyn 
+•Comment closed issues - everyone
+•Make Readme file in assets - Severyn 
+
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+•https://www.overleaf.com/project/652797e89497fcdf684f9f14
+
+Next meeting:
+•10/19/2023 2PM (Thursday)
+•3nd floor

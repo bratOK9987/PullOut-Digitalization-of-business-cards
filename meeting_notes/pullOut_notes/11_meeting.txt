@@ -1,0 +1,32 @@
+Meeting was 10/16/2023 at 16 PM
+
+Attended:
+everyone 
+(4/4)
+
+Topics:
+•What've we done from the past meeting.
+•Possible implementations in the future (Ansible scripts).
+•Migrating into Python language
+•Presentation topics
+•Next our steps?
+
+Decisions:
+•Changing main project to language to Python
+
+What we agreed on?
+•Change language from java to python
+•To use Ansible scripts in the future
+•To use topics from the draft report and add more untouched topics in the presentation
+
+Homework:
+•Make skeleton of presentation - Oleksii 
+•Make ER diagram - Oleksii 
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+•https://www.overleaf.com/project/652797e89497fcdf684f9f14
+
+Next meeting:
+•10/18/2023 12AM (Wednesday)
+•3nd floor
