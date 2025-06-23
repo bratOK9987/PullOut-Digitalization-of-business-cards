@@ -1,0 +1,32 @@
+Meeting was 10/21/2023 at 9 PM
+
+Attended:
+Everyone 
+(4/4)
+
+Topics: 
+•What've we done from the past meeting.
+•Meeting with our supervisor
+•Next our steps?
+
+Decisions:
+•none
+
+What we agreed on?
+•Waiting for supervisor's answer
+
+Homework:
+•Research more about CardDav - Oleksii 
+•Figuring out how to send image to DB - everyone 
+•Learn Bash Script -  Severyn 
+•Research more about large language models - Renaldas  
+•Ask our supervisor for a meeting - Oleksii  
+•Finnish settuping DB - Oleksii 
+
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+
+Next meeting:
+•10/27/2023 12AM (Wednesday)
+•With our supervisor (at his univeristy room)

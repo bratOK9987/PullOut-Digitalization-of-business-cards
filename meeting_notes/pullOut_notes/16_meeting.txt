@@ -1,0 +1,33 @@
+Meeting was 11/03/2023 at 11:30AM
+
+Attended:
+Everyone 
+(4/4)
+
+Topics: 
+•What've we done from the past meeting.
+•Team management, deadlines and fines for delaying work deadlines
+•Project issues
+•Next our steps?
+
+Decisions:
+•Make more issues.
+
+What we agreed on?
+•To make fines for delayed work (3Eur for each team member for delayed week report, everyone are planning his deadlines and fines)
+•To update issues, and plan a meetings between ourselves, to work through some issues.
+
+Homework: 
+•Figuring out how to send image to DB - everyone 
+•Upgrade bash script program for the project - Severyn (until sunday)
+•Make possibly connect to DB - Oleksii (until sunday)
+•Upgrade image processing class (remove text artifacts, improve reliability) - Joris (until monday)
+•Skeleton presentation and scanning of company name - Renaldas (until monday)
+
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+
+Next meeting:
+•11/06/2023 11:30 AM (Monday)
+•online (Discord)

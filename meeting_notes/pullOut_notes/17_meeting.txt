@@ -1,0 +1,31 @@
+Meeting was 11/06/2023 at 11:30AM
+
+Attended:
+Everyone 
+(4/4)
+
+Topics: 
+•What've we done from the past meeting.
+•How team deadlines impact on us.
+•Overviewing presentation skeleton.
+
+Decisions:
+•none
+
+What we agreed on?
+•To make our tasks on time
+
+Homework: 
+•Figuring out how to send image to DB - Joris and Renaldas
+•Make python script - Severyn (until Thursday)
+•Finish tests for DB - Oleksii
+•Upgrade image processing class (remove text artifacts, improve reliability) - Joris (until today)
+•Make project report - Renaldas (until Wednesday)
+
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+
+Next meeting:
+•11/08/2023 12 AM (Wednesday)
+•online (Discord) 

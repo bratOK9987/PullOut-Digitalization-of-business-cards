@@ -1,0 +1,37 @@
+Meeting was 12/21/2023 at 3PM
+
+Topics: 
+•Starting the project
+•Roles
+•Project requirements
+•Milestones
+
+
+What was done on the meeting and what we decided on:
+• Milestones:
+Project kickstart, Project skeleton, Text extraction, Formed output, Data storing, Tools to manage cards, [Optional] rebasing img_proc., [Optional] Make a Windows version.
+• Roles:
+Severyn - reports, meeting notes
+Oleksii - coding part
+• Functional and non-functional requirements
+
+Homework: 
+• Check out pytest documentation https://docs.pytest.org/en/7.4.x/ - Severyn
+• Make meeting notes directory and input all notes. - Severyn
+• Make timelog directory - Severyn
+• Input CI/CD Pipelines - Oleksii
+• Create PullOut-OS report draft - Severyn
+• Upgrade Readme file - Severyn
+• Milestones descriptions - Severyn 
+• Setup Linux VM - Severyn
+• Send written Docs file to Severyn - Oleksii
+• Finish text extraction procees from the image part - Oleksii
+• Make Milestones - Severyn
+
+
+Material meetings:
+• https://git.mif.vu.lt/olmo9929/pullout-oleksii
+
+Next meeting:
+•01/--/2024 --  AM (-)
+•online

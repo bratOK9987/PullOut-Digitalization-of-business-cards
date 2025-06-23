@@ -1,0 +1,18 @@
+1. Team name: Pull Out
+2. We should be able to take a photo of the card and scan the name of the company, phone number, email, address of the company, name/surname, job title, website(optional)
+3. Add card info to database, postgreSQL
+
+QUESTIONS:
+1) How many VM we should use?
+1.1) Do we need to make host (Data Base) & client (I/O) VM or we need just one VM?
+2) Are these are main informations we need to scan? (The name of the company, phone number, email, address of the company, name/surname, job title, website)
+3) What’s should be the output of the program? Is it need to be in VCF (Virtual Contact File) format?
+
+Homework: 
+Setup Trello
+Setup Toggl
+Make pedoFile
+Research and decide on language we will use in the project
+Make discord server
+Send discord usernames
+Search for more interesting info for our project

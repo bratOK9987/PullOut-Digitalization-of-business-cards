@@ -1,0 +1,35 @@
+18th of September.
+Topic of meeting #3: 
+Milestones, GitLab Issues, Plan to take 1 milestone 
+
+Meeting roles: 
+Facilitator - Oleksii
+Recorder - Severyn
+Presenter - Renaldas
+Timekeeper - Joris
+
+What we decided on the meeting:
+We'll use VS code
+Milestones:
+•Kickstart
+•Make a project skeleton
+•Successfully use tesaract
+•Define text objects
+•Put everything into Data Base
+•Make an user friendly experience
+•Release
+
+Homework until tomorrow: 
+Have ideas for student's project contract
+
+Homework until end of the week (Thursday):
+Setup Gitlab Issues
+Meeting was 09/18/2023 at 12 AM
+Attended:
+Severyn, Renaldas, Oleksii;
+
+Did not attended:
+Joris
+
+
+Next meeting is planned to be tomorrow at 7 PM

@@ -1,0 +1,43 @@
+Meeting was 09/29/2023 at 12 AM
+
+Attended:
+everyone 
+(4/4)
+
+Topics:
+Presentation planning
+Analysing meeting with supervisor L. Bukauskas
+Implementation plan
+Road map
+Finishing 1st milestone
+Next our steps?
+
+Decisions:
+•Prepare presentation's part for next meeting
+
+What we agreed on?
+•Presentation's work will be seperated into 4 parts. Everyone got his own part of the presentations: 
+	-Idea and vision of the project - Severyn 
+	-Results of the analysis - Oleksii 
+	-Possible problems - Joris 
+	-Meeting with a client or supervisor - Renaldas
+•To make a program for "walking skeleton".
+•Check and upgrade milestones
+
+Homework:
+•Prepare ideas (also you can prepare slides) of presentation for next meeting - everyone (until Tuesday)
+•Download tesseract and try to use it -  Severyn & Oleksii
+•Make Weekly report - Oleksii  (until Thursday)
+•Upgrade Issue Templates - Severyn (until Monday)
+•Researching tessreact and leptonica - Joris  (until Thursday)
+•Put meeting notes to the gitlab Meetings folder - Severyn (until Sunday)
+
+
+Material meetings:
+•https://git.mif.vu.lt/rena9048/pullout
+•https://track.toggl.com/timer
+•https://docs.google.com/document/d/15CoD0h3OXyaZdbXqtpknYM8uIJ2c3-Fqab2k_rp4rJI/edit
+
+Next meeting:
+•10/02/2023 1:30PM (Tuesday)
+•3nd floor
