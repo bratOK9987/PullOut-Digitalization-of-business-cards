@@ -3,7 +3,7 @@
 ## Team members:
 
  - *Morozov Oleksii*
- - *Stankevič Severyn*
+ - *Stankevič Severyn (Assistant in making general decisions)*
 
 ## Project topic: *Digitalization of a business card*
 
